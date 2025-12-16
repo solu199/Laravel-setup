@@ -6,7 +6,7 @@ Laravel Sail を使用したDocker開発環境です。
 
 | カテゴリ | 技術 |
 |---------|------|
-| Framework | Laravel 11 + Sail |
+| Framework | Laravel 12 + Sail |
 | Frontend | Livewire 3 |
 | UI | Bootstrap 5 (CDN) |
 | Database | MySQL 8.0 |
