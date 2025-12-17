@@ -29,7 +29,7 @@ Laravel Sail を使用したDocker開発環境です。
 
 ```bash
 git clone <repository-url>
-cd testlaravel
+cd Laravel-setup
 ```
 
 ### 2. 環境変数を設定
